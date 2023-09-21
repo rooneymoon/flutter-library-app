@@ -8,7 +8,7 @@ I've learned quite a bit about Dart and Flutter for Front-End.
 
 This project is a starting point for a Flutter application project.
 
-★ Built by Pannisa :)
+★ Designed and Built by Pannisa :)
 
 ## Screen Shots
 
