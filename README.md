@@ -1,10 +1,10 @@
-# Library Application Project
+# Library Application Project  
 
-***+Non-responsive app+***
+***+Non-responsive app+*** ***(Practicing)***
 
 Library Application built with Flutter.
 
-I've learned quite a bit about Dart and Flutter.
+I've learned quite a bit about Dart and Flutter for Front-End.
 
 This project is a starting point for a Flutter application project.
 
