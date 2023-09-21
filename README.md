@@ -1,6 +1,6 @@
 # Library Application Project  
 
-***+Non-responsive app+*** ***(Practicing)***
+## Non-responsive app (Practicing)
 
 Library Application built with Flutter.
 
