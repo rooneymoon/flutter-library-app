@@ -1,6 +1,6 @@
-# Library Application Project  
+# Library Application Project 📚
 
-## Non-responsive app (Practicing)
+## ⭕️ Non-responsive app (Practicing)
 
 Library Application built with Flutter.
 
@@ -8,9 +8,9 @@ I've learned quite a bit about Dart and Flutter for Front-End.
 
 This project is a starting point for a Flutter application project.
 
-★ Designed and Built by Pannisa :)
+⭐️ Designed and Built by Pannisa :)
 
-## Screen Shots
+## ScreenShots📱
 
 <img src="images/9AF49B39-0A23-4303-B1FC-E29C5BE9B93F.jpeg" width="400">
 
